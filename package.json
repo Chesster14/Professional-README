@@ -1,0 +1,22 @@
+{
+  "name": "professional-readme",
+  "version": "1.0.0",
+  "description": "Due June 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chesster14/Professional-README.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chesster14/Professional-README/issues"
+  },
+  "homepage": "https://github.com/Chesster14/Professional-README#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
