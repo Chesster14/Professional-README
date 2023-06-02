@@ -63,11 +63,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Chesster14/Professional-README"
+    "url": "git+https://github.com/Chesster14/Professional-README.git"
   },
   "keywords": [
     "N/A"
   ],
   "author": "Tod Winchester",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chesster14/Professional-README/issues"
+  },
+  "homepage": "https://github.com/Chesster14/Professional-README#readme"
 }
