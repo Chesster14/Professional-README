@@ -7,46 +7,48 @@ Link to the Video
 
 Description:
 
-Table of Contents:
+![License: MIT](https://custom-icon-badges.demolab.com/badge/license-MIT-yellowgreen.svg?logo=law)
+
+## Table of Contents:
 
 
-- <a name="GeneralInformation"></a>(General Information)
-- [Installation](#Installation)
-- [Usage](#Usage)
-- [Contributing](#Contributing)
-- [Tests](#Tests)
-- [Questions](#Questions)
+- [GeneralInfo](#General Info)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 - [Resources](#resources)
-- [License](#resources)
+- [License](#license)
 
 ---
 
-##General Info
+## General Info
 
 ---
 
-##Installation
+## Installation
 
 ---
 
-##Usage
+## Usage
 
 ---
 
-##Contributing
+## Contributing
 
 ---
 
-##Tests
+## Tests
 
 ---
 
-Questions
+## Questions
 
 ---
 
-Resources
+## Resources
 
 ---
 
-License
+## License
