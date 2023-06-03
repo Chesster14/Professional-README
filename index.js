@@ -3,13 +3,13 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-const generatemd = ({ title, licence, github, linkedin }) =>
+const generatemd = ({ title, licence, github, linkedin, contributers, email }) =>
   `# ${title}
 
   ![License:${licence}](https://custom-icon-badges.demolab.com/badge/license-${licence}-yellowgreen.svg?logo=law)
+  ![Google](https://custom-icon-badges.demolab.com/badge/Google-grey?logo=google&logoColor=red)(https://www.google.com/)
 
   ## Table of Contents:
-
 
   - [GeneralInfo](#General Info)
   - [Installation](#installation)
@@ -23,6 +23,7 @@ const generatemd = ({ title, licence, github, linkedin }) =>
   ---
   
   ## General Info
+  Welcome to the professional README generator
   
   ---
   
@@ -67,18 +68,18 @@ inquirer
     },
     {
       type: 'input',
-      name: 'hobby',
-      message: 'What is your favorite hobby?',
-    },
-    {
-      type: 'input',
-      name: 'food',
-      message: 'What is your favorite food?',
-    },
-    {
-      type: 'input',
       name: 'github',
-      message: 'Enter your GitHub Username',
+      message: 'What is your GitHub username?',
+    },
+    {
+      type: 'input',
+      name: 'contributers',
+      message: 'Who will be contributing to your project?',
+    },
+    {
+      type: 'input',
+      name: 'email',
+      message: 'Enter your email address',
     },
     {
       type: 'input',

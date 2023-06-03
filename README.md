@@ -1,18 +1,22 @@
 # Professional-README-Generator
+
 Due June 5
 
 Link to the Repo
 
 Link to the Video
 
-Description:
+
 
 ![License: MIT](https://custom-icon-badges.demolab.com/badge/license-MIT-yellowgreen.svg?logo=law)
+![License: MIT](https://custom-icon-badges.demolab.com/badge/license-Apache-yellowgreen.svg?logo=law)
+![Google](https://custom-icon-badges.demolab.com/badge/Google-grey?logo=google&logoColor=red)(https://www.google.com/)
+
+Description:
 
 ## Table of Contents:
 
-
-- [GeneralInfo](#General Info)
+- [GeneralInfo](#general Info)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -24,6 +28,7 @@ Description:
 ---
 
 ## General Info
+Welcome to the professional README generator
 
 ---
 
