@@ -10,7 +10,7 @@ Description:
 Table of Contents:
 
 
-- <a name="GeneralInformation"></a>[General Information]
+- <a name="GeneralInformation"></a>(General Information)
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Contributing](#Contributing)
