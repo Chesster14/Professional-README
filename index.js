@@ -20,12 +20,10 @@ const generatemd = ({ title, license, usage, installation, github, test, linkedi
   - [Questions](#questions)
   - [License](#license)
   
-  ---
   
   ## Information
   Welcome to the professional README generator.
   
-  ---
   
   ## Installation
   ${installation}
@@ -35,7 +33,7 @@ const generatemd = ({ title, license, usage, installation, github, test, linkedi
   
   ## Contributing
   
-  ${contributers} are the contributors to this project. 
+  ${contributers} is/are the contributors to this project. 
   This project currently doesn't accept contributors from other developers.
 
   [Contributors Profile](www.linkedin.com/in/${linkedin})

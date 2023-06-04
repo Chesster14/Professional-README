@@ -2,9 +2,6 @@
 
 https://github.com/Chesster14/Professional-README#installation
 
-Link to the Video
-
-
 
 ![License: MIT](https://custom-icon-badges.demolab.com/badge/license-MIT-yellowgreen.svg?logo=law)
 ![Google](https://custom-icon-badges.demolab.com/badge/Google-grey?logo=google&logoColor=red)(https://www.google.com/)
@@ -22,7 +19,6 @@ Link to the Video
 - [Questions](#questions)
 - [License](#license)
 
----
 
 ## Information
 Welcome to the professional README generator.
@@ -40,7 +36,7 @@ contributing notes go here
 Test notes go here
 
 ## Questions
-Please contact me at tod.winchester@gmail.com for any questions
+  Please reach me at tod.winchester@gmail.com for any questions related to the project.
 
 ## License
 This application is covered under the MIT Licence
