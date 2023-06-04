@@ -22,7 +22,7 @@ const generatemd = ({ title, licence, github, linkedin, contributers, email }) =
   ---
   
   ## General Information
-  Welcome to the professional README generator
+  Welcome to the professional README generator.
   
   ---
   

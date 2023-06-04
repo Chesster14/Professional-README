@@ -24,25 +24,19 @@ Description:
 ---
 
 ## General Information
-Welcome to the professional README generator
-
----
+Welcome to the professional README generator.
 
 ## Installation
-
----
+Go to your Terminal/command line.
 
 ## Usage
-
----
+Usage notes go here
 
 ## Contributing
-
----
+contributing notes go here
 
 ## Tests
-
----
+Test notes go here
 
 ## Questions
 Please contact me at tod.winchester@gmail.com for any questions
