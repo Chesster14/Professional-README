@@ -21,19 +21,21 @@ https://github.com/Chesster14/Professional-README#installation
 
 
 ## Information
-Welcome to the professional README generator.
+  Welcome to the professional README generator.
+  Using This Professional README generator will provide you with a fantastic README to start you off on your next project.
 
 ## Installation
-Go to your Terminal/command line.
+Git clone <URL> & npm i
 
 ## Usage
-Usage notes go here
+Open Source
 
 ## Contributing
-contributing notes go here
+  Tod Winchester is/are the contributors to this project. 
+  This project currently doesn't accept contributors from other developers.
 
 ## Tests
-Test notes go here
+Manual Testing
 
 ## Questions
   Please reach me at tod.winchester@gmail.com for any questions related to the project.
