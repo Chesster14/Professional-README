@@ -3,10 +3,10 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-const generatemd = ({ title, licence, github, linkedin, contributers, email }) =>
+const generatemd = ({ title, license, github, linkedin, contributers, email }) =>
   `# ${title}
 
-  ![License:${licence}](https://custom-icon-badges.demolab.com/badge/license-${licence}-yellowgreen.svg?logo=law)
+  ![License:${license}](https://custom-icon-badges.demolab.com/badge/license-${license}-yellowgreen.svg?logo=law)
   ![Google](https://custom-icon-badges.demolab.com/badge/Google-grey?logo=google&logoColor=red)(https://www.google.com/)
 
   ## Table of Contents:
@@ -57,8 +57,8 @@ inquirer
     },
     {
       type: 'list',
-      name: 'licence',
-      message: 'Please choose your licence',
+      name: 'license',
+      message: 'Please choose your license',
       choices: ["MIT", "BSD", "Apache", "GPL"]
     },
     {

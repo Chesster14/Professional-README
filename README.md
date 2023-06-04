@@ -42,4 +42,4 @@ Test notes go here
 Please contact me at tod.winchester@gmail.com for any questions
 
 ## License
-MIT Licence
+This application is covered under the MIT Licence

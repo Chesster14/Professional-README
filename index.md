@@ -16,7 +16,7 @@
   ---
   
   ## General Information
-  Welcome to the professional README generator
+  Welcome to the professional README generator.
   
   ---
   
