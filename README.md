@@ -46,6 +46,7 @@ Welcome to the professional README generator
 
 ## Questions
 
----
+Pleaase contact me at tod.winchester@gmail.com
 
 ## License
+MIT Licence
