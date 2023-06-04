@@ -1,6 +1,6 @@
 # Professional README Generator
 
-  ![License:Apache](https://custom-icon-badges.demolab.com/badge/license-Apache-yellowgreen.svg?logo=law)
+  ![License:MIT](https://custom-icon-badges.demolab.com/badge/license-MIT-yellowgreen.svg?logo=law)
   
   ![Google](https://custom-icon-badges.demolab.com/badge/Google-grey?logo=google&logoColor=red)(https://www.google.com/)
 
@@ -17,30 +17,30 @@
   
   ## Information
   Welcome to the professional README generator.
-  
+  Using This Professional README generator will provide you with a fantastic README to start you off on your next project.
   
   ## Installation
   Git clone <URL> & npm i
   
   ## Usage
-  Git clone <URL> & npm i
+  Open Source
   
   ## Contributing
   
-  tod.winchester2@gmail.com is/are the contributors to this project. 
+  Tod Winchester is/are the contributors to this project. 
   This project currently doesn't accept contributors from other developers.
 
-  [Contributors Profile](www.linkedin.com/in/Manual Testing)
+  [Contributors Profile](www.linkedin.com/in/Chesster14)
 
   ## Tests
-  Open Source
+  Manual Testing
   
   ## Questions
   
-  Please reach me at Chesster14 for any questions related to the project.
+  Please reach me at tod.winchester2@gmail.com for any questions related to the project.
   
   ## License
-  ![License: Apache](https://custom-icon-badges.demolab.com/badge/license-Apache-yellowgreen.svg?logo=law)
+  ![License: MIT](https://custom-icon-badges.demolab.com/badge/license-MIT-yellowgreen.svg?logo=law)
 
   For details regarding license badges please check this link:
   
