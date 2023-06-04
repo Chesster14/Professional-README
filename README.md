@@ -1,15 +1,12 @@
 # Professional-README-Generator
 
-Due June 5
-
-Link to the Repo
+https://github.com/Chesster14/Professional-README#installation
 
 Link to the Video
 
 
 
 ![License: MIT](https://custom-icon-badges.demolab.com/badge/license-MIT-yellowgreen.svg?logo=law)
-![License: Apache](https://custom-icon-badges.demolab.com/badge/license-Apache-yellowgreen.svg?logo=law)
 ![Google](https://custom-icon-badges.demolab.com/badge/Google-grey?logo=google&logoColor=red)(https://www.google.com/)
 
 Description:
@@ -22,7 +19,6 @@ Description:
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
-- [Resources](#resources)
 - [License](#license)
 
 ---
@@ -49,10 +45,6 @@ Welcome to the professional README generator
 ---
 
 ## Questions
-
----
-
-## Resources
 
 ---
 

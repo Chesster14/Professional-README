@@ -17,7 +17,6 @@ const generatemd = ({ title, licence, github, linkedin, contributers, email }) =
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
-  - [Resources](#resources)
   - [License](#license)
   
   ---
@@ -44,10 +43,6 @@ const generatemd = ({ title, licence, github, linkedin, contributers, email }) =
   ---
   
   ## Questions
-  
-  ---
-  
-  ## Resources
   
   ---
   

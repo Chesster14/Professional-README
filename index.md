@@ -1,6 +1,6 @@
-# sdfg
+# Professional README Generator
 
-  ![License:BSD](https://custom-icon-badges.demolab.com/badge/license-BSD-yellowgreen.svg?logo=law)
+  ![License:Apache](https://custom-icon-badges.demolab.com/badge/license-Apache-yellowgreen.svg?logo=law)
   ![Google](https://custom-icon-badges.demolab.com/badge/Google-grey?logo=google&logoColor=red)(https://www.google.com/)
 
   ## Table of Contents:
@@ -11,7 +11,6 @@
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
-  - [Resources](#resources)
   - [License](#license)
   
   ---
@@ -38,10 +37,6 @@
   ---
   
   ## Questions
-  
-  ---
-  
-  ## Resources
   
   ---
   
