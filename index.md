@@ -1,6 +1,6 @@
 # Professional README Generator
 
-  ![License:MIT](https://custom-icon-badges.demolab.com/badge/license-MIT-yellowgreen.svg?logo=law)
+  ![License:Apache](https://custom-icon-badges.demolab.com/badge/license-Apache-yellowgreen.svg?logo=law)
   
   ![Google](https://custom-icon-badges.demolab.com/badge/Google-grey?logo=google&logoColor=red)(https://www.google.com/)
 
@@ -40,7 +40,7 @@
   Please reach me at tod.winchester2@gmail.com for any questions related to the project.
   
   ## License
-  ![License: MIT](https://custom-icon-badges.demolab.com/badge/license-MIT-yellowgreen.svg?logo=law)
+  ![License: Apache](https://custom-icon-badges.demolab.com/badge/license-Apache-yellowgreen.svg?logo=law)
 
   For details regarding license badges please check this link:
   
