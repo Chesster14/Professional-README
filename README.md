@@ -9,7 +9,7 @@ Link to the Video
 
 
 ![License: MIT](https://custom-icon-badges.demolab.com/badge/license-MIT-yellowgreen.svg?logo=law)
-![License: MIT](https://custom-icon-badges.demolab.com/badge/license-Apache-yellowgreen.svg?logo=law)
+![License: Apache](https://custom-icon-badges.demolab.com/badge/license-Apache-yellowgreen.svg?logo=law)
 ![Google](https://custom-icon-badges.demolab.com/badge/Google-grey?logo=google&logoColor=red)(https://www.google.com/)
 
 Description:
