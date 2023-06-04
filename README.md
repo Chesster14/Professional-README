@@ -13,7 +13,7 @@ Description:
 
 ## Table of Contents:
 
-- [GeneralInfo](#general Info)
+- [GeneralInformation](#general Information)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -23,7 +23,7 @@ Description:
 
 ---
 
-## General Info
+## General Information
 Welcome to the professional README generator
 
 ---

@@ -11,7 +11,7 @@ const generatemd = ({ title, licence, github, linkedin, contributers, email }) =
 
   ## Table of Contents:
 
-  - [GeneralInfo](#General Info)
+  - [GeneralInfo](#general Information)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
@@ -21,7 +21,7 @@ const generatemd = ({ title, licence, github, linkedin, contributers, email }) =
   
   ---
   
-  ## General Info
+  ## General Information
   Welcome to the professional README generator
   
   ---

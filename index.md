@@ -1,11 +1,11 @@
-# Professional README Generator
+# fg
 
-  ![License:Apache](https://custom-icon-badges.demolab.com/badge/license-Apache-yellowgreen.svg?logo=law)
+  ![License:MIT](https://custom-icon-badges.demolab.com/badge/license-MIT-yellowgreen.svg?logo=law)
   ![Google](https://custom-icon-badges.demolab.com/badge/Google-grey?logo=google&logoColor=red)(https://www.google.com/)
 
   ## Table of Contents:
 
-  - [GeneralInfo](#General Info)
+  - [GeneralInfo](#general Information)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
@@ -15,7 +15,7 @@
   
   ---
   
-  ## General Info
+  ## General Information
   Welcome to the professional README generator
   
   ---
