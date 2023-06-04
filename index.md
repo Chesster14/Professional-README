@@ -1,6 +1,6 @@
-# Readme generator
+# Professional README Generator
 
-  ![License:MIT](https://custom-icon-badges.demolab.com/badge/license-MIT-yellowgreen.svg?logo=law)
+  ![License:Apache](https://custom-icon-badges.demolab.com/badge/license-Apache-yellowgreen.svg?logo=law)
   
   ![Google](https://custom-icon-badges.demolab.com/badge/Google-grey?logo=google&logoColor=red)(https://www.google.com/)
 
@@ -25,24 +25,24 @@
   git clone <url> & npm i
   
   ## Usage
-  Open source
+  opensource
   
   ## Contributing
   
-  Tod winchester are the contributors to this project. 
+  Tod Winchester are the contributors to this project. 
   This project currently doesn't accept contributors from other developers.
 
-  [Contributors Profile](www.linkedin.com/in/tod-winchester-1b2a318b)
+  [Contributors Profile](www.linkedin.com/in/Chesster7)
 
   ## Tests
-  Manual
+  manual testing
   
   ## Questions
   
   Please reach me at tod.winchester@gmail.com for any questions related to the project.
   
   ## License
-  ![License: MIT](https://custom-icon-badges.demolab.com/badge/license-MIT-yellowgreen.svg?logo=law)
+  ![License: Apache](https://custom-icon-badges.demolab.com/badge/license-Apache-yellowgreen.svg?logo=law)
 
   For details regarding license badges please check this link:
   
