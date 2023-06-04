@@ -5,7 +5,7 @@
 
   ## Table of Contents:
 
-  - [GeneralInfo](#general Information)
+  - [GeneralInformation](#generalInformation)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)

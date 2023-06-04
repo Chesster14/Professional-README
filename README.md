@@ -13,7 +13,7 @@ Description:
 
 ## Table of Contents:
 
-- [GeneralInformation](#general Information)
+- [GeneralInformation](#generalInformation)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -45,8 +45,7 @@ Welcome to the professional README generator
 ---
 
 ## Questions
-
-Pleaase contact me at tod.winchester@gmail.com
+Please contact me at tod.winchester@gmail.com for any questions
 
 ## License
 MIT Licence

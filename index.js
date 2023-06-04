@@ -11,7 +11,7 @@ const generatemd = ({ title, licence, github, linkedin, contributers, email }) =
 
   ## Table of Contents:
 
-  - [GeneralInfo](#general Information)
+  - [GeneralInformation](#generalInformation)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
